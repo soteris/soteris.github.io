@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Computer Science - Cryptography and Security&#34; | Soteris Demetriou</title>
+    <link>/tag/computer-science-cryptography-and-security/</link>
+      <atom:link href="/tag/computer-science-cryptography-and-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Computer Science - Cryptography and Security&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Computer Science - Cryptography and Security&#34;</title>
+      <link>/tag/computer-science-cryptography-and-security/</link>
+    </image>
+    
+    <item>
+      <title>Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be</title>
+      <link>/publication/zhang-understanding-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-understanding-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Soteris Demetriou</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing Improper Input Validation Vulnerabilities of Mobile Crowdsourcing Services</title>
+      <link>/publication/sojhal-iiv-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/sojhal-iiv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Short) Object Removal Attacks on LiDAR-based 3D Object Detectors</title>
+      <link>/publication/hau-short-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hau-short-2021/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ndss-symposium.org/ndss-program/autosec-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Runner-up for best short paper award at the AutoSec &amp;lsquo;21 workshop (co-located with NDSS &amp;lsquo;21)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Layer-wise Characterization of Latent Information Leakage in Federated Learning</title>
+      <link>/publication/fan-dpml-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fan-dpml-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadow-Catcher: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing</title>
+      <link>/publication/hau-2021-shadowcatcher/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hau-2021-shadowcatcher/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_2e74e70845794cdf83788b965c8d2a5c.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finalist at the Cybersecurity Awareness Worldwide (CSAW &amp;lsquo;21) applied research competition (EUROPE Region)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Determination of a next state of multiple IoT devices within an environment</title>
+      <link>/publication/demetriou-determination-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/demetriou-determination-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DarkneTZ: towards model privacy at the edge using trusted execution environments</title>
+      <link>/publication/mo-darknetz-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mo-darknetz-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External resource control of mobile devices</title>
+      <link>/publication/wang-external-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-external-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining car positions</title>
+      <link>/publication/jain-determining-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jain-determining-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEEER: distributed record and replay for medical devices in hospital operating rooms</title>
+      <link>/publication/hojjati-beeer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hojjati-beeer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoDrive: Improving Automobile Positioning via Collaborative Driving</title>
+      <link>/publication/demetriou-codrive-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/demetriou-codrive-2018/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Award(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Best in-session presentation award in the &amp;ldquo;Vehicular Networks&amp;rdquo; session of IEEE INFOCOM 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;-patents&#34;&gt;💡 Patent(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Puneet Jain&lt;/span&gt;, &lt;span &gt;
+      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
+      Kyu-Han Kim&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;/publication/jain-determining-2019/&#34;&gt;Determining car positions&lt;/a&gt;.
+  US Patent: US10380889B2.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/https:/patents.google.com/patent/US10380889B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/jain-determining-2019/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/project/security-in-machine-learning-and-cps/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resolving the Predicament of Android Custom Permissions</title>
+      <link>/publication/tuncay-resolving-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tuncay-resolving-2018/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Distinguished Paper Award at NDSS &amp;lsquo;18&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition (US-CANADA Region)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toward an Extensible Framework for Redaction</title>
+      <link>/publication/demetriou-toward-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/demetriou-toward-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>/publication/srivastava-camforensics-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/srivastava-camforensics-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps</title>
+      <link>/publication/demetriou-hanguard-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/demetriou-hanguard-2017/</guid>
+      <description>&lt;h3 id=&#34;video-demonstration&#34;&gt;Video Demonstration&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/AuRP3IUdeuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ghost Installer in the Shadow: Security Analysis of App Installation on Android</title>
+      <link>/publication/lee-ghost-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-ghost-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be</title>
+      <link>/publication/zhang-understanding-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-understanding-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android</title>
+      <link>/publication/tuncay-draco-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tuncay-draco-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free for All! Assessing User Data Exposure to Advertising Libraries on Android</title>
+      <link>/publication/demetriou-free-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/demetriou-free-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in Your Dongle and Bank Account? Mandatory and Discretionary Protection of Android External Resources</title>
+      <link>/publication/demetriou-whats-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/demetriou-whats-2015/</guid>
+      <description>&lt;h3 id=&#34;-patents&#34;&gt;💡 Patent(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      XiaoFeng Wang&lt;/span&gt;, &lt;span &gt;
+      Kan Yuan&lt;/span&gt;, &lt;span &gt;
+      Xiaoyong Zhou&lt;/span&gt;, &lt;span &gt;
+      Muhammad Naveed&lt;/span&gt;, &lt;span &gt;
+      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
+      Carl Gunter&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;/publication/wang-external-2020/&#34;&gt;External resource control of mobile devices&lt;/a&gt;.
+  US Patent: US10685142B2.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/https:/patents.google.com/patent/US10685142B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/wang-external-2020/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inside Job: Understanding and Mitigating the Threat of External Device Mis-Bonding on Android</title>
+      <link>/publication/naveed-inside-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/naveed-inside-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity, location, disease and more: inferring your secrets from android public resources</title>
+      <link>/publication/zhou-identity-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-identity-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering the invisible city: Location-based games for learning in smart cities</title>
+      <link>/publication/sintoris-discovering-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sintoris-discovering-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content creation by end users for location-sensitive mobile educational games</title>
+      <link>/publication/sintoris-content-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/sintoris-content-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
