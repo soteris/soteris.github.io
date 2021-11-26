@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;automobile positioning&#34; | Soteris Demetriou</title>
-    <link>/tag/automobile-positioning/</link>
-      <atom:link href="/tag/automobile-positioning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://soteris.github.io/tag/automobile-positioning/</link>
+      <atom:link href="https://soteris.github.io/tag/automobile-positioning/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;automobile positioning&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;automobile positioning&#34;</title>
-      <link>/tag/automobile-positioning/</link>
+      <link>https://soteris.github.io/tag/automobile-positioning/</link>
     </image>
     
     <item>
       <title>CoDrive: Improving Automobile Positioning via Collaborative Driving</title>
-      <link>/publication/demetriou-codrive-2018/</link>
+      <link>https://soteris.github.io/publication/demetriou-codrive-2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/demetriou-codrive-2018/</guid>
+      <guid>https://soteris.github.io/publication/demetriou-codrive-2018/</guid>
       <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Award(s)&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Best in-session presentation award in the &amp;ldquo;Vehicular Networks&amp;rdquo; session of IEEE INFOCOM 2018.&lt;/p&gt;
@@ -48,7 +48,7 @@
       Kyu-Han Kim&lt;/span&gt;
   &lt;/span&gt;
   (2019).
-  &lt;a href=&#34;/publication/jain-determining-2019/&#34;&gt;Determining car positions&lt;/a&gt;.
+  &lt;a href=&#34;https://soteris.github.io/publication/jain-determining-2019/&#34;&gt;Determining car positions&lt;/a&gt;.
   US Patent: US10380889B2.
   
   &lt;p&gt;
@@ -66,7 +66,7 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/https:/patents.google.com/patent/US10380889B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://patents.google.com/patent/US10380889B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
@@ -82,7 +82,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/project/security-in-machine-learning-and-cps/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/security-in-machine-learning-and-cps/&#34;&gt;
     Project
   &lt;/a&gt;
   

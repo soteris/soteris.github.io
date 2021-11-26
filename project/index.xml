@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Soteris Demetriou</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://soteris.github.io/project/</link>
+      <atom:link href="https://soteris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Mar 2021 16:13:17 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://soteris.github.io/project/</link>
     </image>
     
     <item>
       <title>Security and Privacy in Machine Learning and CPS</title>
-      <link>/project/security-in-machine-learning-and-cps/</link>
+      <link>https://soteris.github.io/project/security-in-machine-learning-and-cps/</link>
       <pubDate>Sat, 06 Mar 2021 16:13:17 +0000</pubDate>
-      <guid>/project/security-in-machine-learning-and-cps/</guid>
+      <guid>https://soteris.github.io/project/security-in-machine-learning-and-cps/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GOAL:&lt;/strong&gt; Study on the security and privacy of machine learning models and other applications in IoT and cyber-physical systems.&lt;/p&gt;
 &lt;p&gt;Mobile devices and cyber-physical systems (CPS) are equipped with numerous sensors which allow them to offer efficient and effective personalized services and applications. For example, connected and autonomous vehicles (CAVs) feature advanced sensing capabilities, including multiples of range sensors (Lidar and Radar), 360° cameras, onboard GPUs, and high-speed connectivity: Tesla Motors uses a forward radar, a front-facing camera, and multiple ultrasonic sensors to enable its Autopilot feature; Google’s and Apple’s version of CAV uses Lidar and cameras to support autonomous driving; Ford and Uber are also actively experimenting with CAVs.&lt;/p&gt;
 &lt;p&gt;These advanced capabilities open up a plethora of exciting opportunities for next generation services related to better localization and navigation and traffic optimization. At the same time, their reliance on sensing data and machine learning algorithms for route prediction, collision avoidance and object detection and recognitions, introduces new attack surfaces. Given the widening gap between autonomy and security in this application domain, in tandem with their safety repercussions, there is an impending need for novel solutions that can guarantee trusted outcomes from such sensor-fusion and machine learning algorithms.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Mobile Devices and IoT Systems Security</title>
-      <link>/project/mobile-devices-and-iot-systems-security/</link>
+      <link>https://soteris.github.io/project/mobile-devices-and-iot-systems-security/</link>
       <pubDate>Sat, 06 Mar 2021 16:11:57 +0000</pubDate>
-      <guid>/project/mobile-devices-and-iot-systems-security/</guid>
+      <guid>https://soteris.github.io/project/mobile-devices-and-iot-systems-security/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GOAL:&lt;/strong&gt; Study of adversarial capabilities and development of novel defense strategies for smartphone and IoT systems.&lt;/p&gt;
 &lt;p&gt;With smartphone penetration soaring and the rapid advancements in Internet connected devices, mobile and IoT device security guarantees are needed more than ever. Adversaries can leverage the fact that mobile devices are equipped with a multitude of sensing and their always present nature to launch sophisticated inference attacks to violate users’ confidentiality and the platforms’ integrity. This research thrust aims to study such adversarial capabilities in smartphone and IoT systems in consumer and enterprise settings.&lt;/p&gt;
 </description>
@@ -35,9 +35,9 @@
     
     <item>
       <title>Authentication, Authorization and Access Control</title>
-      <link>/project/authentication-authorization-and-access-control/</link>
+      <link>https://soteris.github.io/project/authentication-authorization-and-access-control/</link>
       <pubDate>Sat, 06 Mar 2021 16:08:06 +0000</pubDate>
-      <guid>/project/authentication-authorization-and-access-control/</guid>
+      <guid>https://soteris.github.io/project/authentication-authorization-and-access-control/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GOAL:&lt;/strong&gt; Study of effective and efficient authentication, authorization and access control mechanisms.&lt;/p&gt;
 &lt;p&gt;Operating systems rely on authentication to verify that subjects (the users and programs) sharing the platform and OS resources are who they claim to be. Lack or weak authentication can result in untrusted parties having access to privileged operations. Authorization schemes determine the privileges a subject has on the system. To enforce the authorization constraints and to help manage the distribution, revocation and enforcement of privileges in a particular context or system, we design effective and efficient access control schemes. Modern operating systems employ a variety of such access control schemes, such as discretionary access control, mandatory access control and application permission models.&lt;/p&gt;
 </description>

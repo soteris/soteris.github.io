@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selected Talks &amp; Presentations | Soteris Demetriou</title>
-    <link>/event/</link>
-      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://soteris.github.io/event/</link>
+      <atom:link href="https://soteris.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Talks &amp; Presentations</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Apr 2018 23:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
       <title>Selected Talks &amp; Presentations</title>
-      <link>/event/</link>
+      <link>https://soteris.github.io/event/</link>
     </image>
     
     <item>
       <title>Video Presentation of CoDrive (IEEE INFOCOM 2018)</title>
-      <link>/talk/video-presentation-of-codrive-ieee-infocom-2018/</link>
+      <link>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</link>
       <pubDate>Sat, 14 Apr 2018 23:00:00 +0000</pubDate>
-      <guid>/talk/video-presentation-of-codrive-ieee-infocom-2018/</guid>
+      <guid>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/jAuJFiYq2bQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -51,7 +51,7 @@
       K. Kim&lt;/span&gt;
   &lt;/span&gt;
   (2018).
-  &lt;a href=&#34;/publication/demetriou-codrive-2018/&#34;&gt;CoDrive: Improving Automobile Positioning via Collaborative Driving&lt;/a&gt;.
+  &lt;a href=&#34;https://soteris.github.io/publication/demetriou-codrive-2018/&#34;&gt;CoDrive: Improving Automobile Positioning via Collaborative Driving&lt;/a&gt;.
   &lt;em&gt;IEEE Conference on Computer Communications (IEEE INFOCOM &amp;lsquo;18).&lt;/em&gt; &lt;em&gt;Acceptance rate=19.2% (309/1606)&lt;/em&gt;.
   
   &lt;p&gt;
@@ -79,7 +79,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/project/security-in-machine-learning-and-cps/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/security-in-machine-learning-and-cps/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -144,9 +144,9 @@
     
     <item>
       <title>Presenting our work at NDSS 2018</title>
-      <link>/talk/presenting-our-work-at-ndss-2018/</link>
+      <link>https://soteris.github.io/talk/presenting-our-work-at-ndss-2018/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/presenting-our-work-at-ndss-2018/</guid>
+      <guid>https://soteris.github.io/talk/presenting-our-work-at-ndss-2018/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/9TFAYgUcsk8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -185,7 +185,7 @@
       Carl A. Gunter&lt;/span&gt;
   &lt;/span&gt;
   (2018).
-  &lt;a href=&#34;/publication/tuncay-resolving-2018/&#34;&gt;Resolving the Predicament of Android Custom Permissions&lt;/a&gt;.
+  &lt;a href=&#34;https://soteris.github.io/publication/tuncay-resolving-2018/&#34;&gt;Resolving the Predicament of Android Custom Permissions&lt;/a&gt;.
   &lt;em&gt;Proceedings 2018 Network and Distributed System Security Symposium (NDSS &amp;lsquo;18)&lt;/em&gt;. &lt;em&gt;Acceptance rate=21.4% (71/331)&lt;/em&gt;.
   
   &lt;p&gt;
@@ -203,7 +203,7 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/https:/www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
@@ -219,7 +219,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/project/authentication-authorization-and-access-control/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/authentication-authorization-and-access-control/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -251,7 +251,7 @@
       
     
   
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf&#34; &gt;
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf&#34; &gt;
     
     Slides
   &lt;/a&gt;

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8 | Soteris Demetriou</title>
-    <link>/publication-type/8/</link>
-      <atom:link href="/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://soteris.github.io/publication-type/8/</link>
+      <atom:link href="https://soteris.github.io/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
     <description>8</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
       <title>8</title>
-      <link>/publication-type/8/</link>
+      <link>https://soteris.github.io/publication-type/8/</link>
     </image>
     
     <item>
       <title>Determination of a next state of multiple IoT devices within an environment</title>
-      <link>/publication/demetriou-determination-2020/</link>
+      <link>https://soteris.github.io/publication/demetriou-determination-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/demetriou-determination-2020/</guid>
+      <guid>https://soteris.github.io/publication/demetriou-determination-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External resource control of mobile devices</title>
-      <link>/publication/wang-external-2020/</link>
+      <link>https://soteris.github.io/publication/wang-external-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-external-2020/</guid>
+      <guid>https://soteris.github.io/publication/wang-external-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining car positions</title>
-      <link>/publication/jain-determining-2019/</link>
+      <link>https://soteris.github.io/publication/jain-determining-2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/jain-determining-2019/</guid>
+      <guid>https://soteris.github.io/publication/jain-determining-2019/</guid>
       <description></description>
     </item>
     
