@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soteris Demetriou</title>
+    <link>https://soteris.github.io/</link>
+      <atom:link href="https://soteris.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soteris Demetriou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>Soteris Demetriou</title>
+      <link>https://soteris.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing Improper Input Validation Vulnerabilities of Mobile Crowdsourcing Services</title>
+      <link>https://soteris.github.io/publication/sojhal-iiv-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/sojhal-iiv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security and Privacy in Machine Learning and CPS</title>
+      <link>https://soteris.github.io/project/security-in-machine-learning-and-cps/</link>
+      <pubDate>Sat, 06 Mar 2021 16:13:17 +0000</pubDate>
+      <guid>https://soteris.github.io/project/security-in-machine-learning-and-cps/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;GOAL:&lt;/strong&gt; Study on the security and privacy of machine learning models and other applications in IoT and cyber-physical systems.&lt;/p&gt;
+&lt;p&gt;Mobile devices and cyber-physical systems (CPS) are equipped with numerous sensors which allow them to offer efficient and effective personalized services and applications. For example, connected and autonomous vehicles (CAVs) feature advanced sensing capabilities, including multiples of range sensors (Lidar and Radar), 360° cameras, onboard GPUs, and high-speed connectivity: Tesla Motors uses a forward radar, a front-facing camera, and multiple ultrasonic sensors to enable its Autopilot feature; Google’s and Apple’s version of CAV uses Lidar and cameras to support autonomous driving; Ford and Uber are also actively experimenting with CAVs.&lt;/p&gt;
+&lt;p&gt;These advanced capabilities open up a plethora of exciting opportunities for next generation services related to better localization and navigation and traffic optimization. At the same time, their reliance on sensing data and machine learning algorithms for route prediction, collision avoidance and object detection and recognitions, introduces new attack surfaces. Given the widening gap between autonomy and security in this application domain, in tandem with their safety repercussions, there is an impending need for novel solutions that can guarantee trusted outcomes from such sensor-fusion and machine learning algorithms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile Devices and IoT Systems Security</title>
+      <link>https://soteris.github.io/project/mobile-devices-and-iot-systems-security/</link>
+      <pubDate>Sat, 06 Mar 2021 16:11:57 +0000</pubDate>
+      <guid>https://soteris.github.io/project/mobile-devices-and-iot-systems-security/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;GOAL:&lt;/strong&gt; Study of adversarial capabilities and development of novel defense strategies for smartphone and IoT systems.&lt;/p&gt;
+&lt;p&gt;With smartphone penetration soaring and the rapid advancements in Internet connected devices, mobile and IoT device security guarantees are needed more than ever. Adversaries can leverage the fact that mobile devices are equipped with a multitude of sensing and their always present nature to launch sophisticated inference attacks to violate users’ confidentiality and the platforms’ integrity. This research thrust aims to study such adversarial capabilities in smartphone and IoT systems in consumer and enterprise settings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Authentication, Authorization and Access Control</title>
+      <link>https://soteris.github.io/project/authentication-authorization-and-access-control/</link>
+      <pubDate>Sat, 06 Mar 2021 16:08:06 +0000</pubDate>
+      <guid>https://soteris.github.io/project/authentication-authorization-and-access-control/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;GOAL:&lt;/strong&gt; Study of effective and efficient authentication, authorization and access control mechanisms.&lt;/p&gt;
+&lt;p&gt;Operating systems rely on authentication to verify that subjects (the users and programs) sharing the platform and OS resources are who they claim to be. Lack or weak authentication can result in untrusted parties having access to privileged operations. Authorization schemes determine the privileges a subject has on the system. To enforce the authorization constraints and to help manage the distribution, revocation and enforcement of privileges in a particular context or system, we design effective and efficient access control schemes. Modern operating systems employ a variety of such access control schemes, such as discretionary access control, mandatory access control and application permission models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Short) Object Removal Attacks on LiDAR-based 3D Object Detectors</title>
+      <link>https://soteris.github.io/publication/hau-short-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/hau-short-2021/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ndss-symposium.org/ndss-program/autosec-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Runner-up for best short paper award at the AutoSec &amp;lsquo;21 workshop (co-located with NDSS &amp;lsquo;21)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Layer-wise Characterization of Latent Information Leakage in Federated Learning</title>
+      <link>https://soteris.github.io/publication/fan-dpml-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/fan-dpml-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadow-Catcher: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing</title>
+      <link>https://soteris.github.io/publication/hau-2021-shadowcatcher/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/hau-2021-shadowcatcher/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_2e74e70845794cdf83788b965c8d2a5c.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finalist at the Cybersecurity Awareness Worldwide (CSAW &amp;lsquo;21) applied research competition (EUROPE Region)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://soteris.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Determination of a next state of multiple IoT devices within an environment</title>
+      <link>https://soteris.github.io/publication/demetriou-determination-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-determination-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DarkneTZ: towards model privacy at the edge using trusted execution environments</title>
+      <link>https://soteris.github.io/publication/mo-darknetz-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/mo-darknetz-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External resource control of mobile devices</title>
+      <link>https://soteris.github.io/publication/wang-external-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/wang-external-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining car positions</title>
+      <link>https://soteris.github.io/publication/jain-determining-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/jain-determining-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://soteris.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BEEER: distributed record and replay for medical devices in hospital operating rooms</title>
+      <link>https://soteris.github.io/publication/hojjati-beeer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/hojjati-beeer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Presentation of CoDrive (IEEE INFOCOM 2018)</title>
+      <link>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</link>
+      <pubDate>Sat, 14 Apr 2018 23:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jAuJFiYq2bQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;🏆  &lt;strong&gt;Best In-Session Presentation Award&lt;/strong&gt; in the &amp;ldquo;Vehicular Networks&amp;rdquo; session at IEEE INFOCOM 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      S. Demetriou&lt;/span&gt;, &lt;span &gt;
+      P. Jain&lt;/span&gt;, &lt;span &gt;
+      K. Kim&lt;/span&gt;
+  &lt;/span&gt;
+  (2018).
+  &lt;a href=&#34;https://soteris.github.io/publication/demetriou-codrive-2018/&#34;&gt;CoDrive: Improving Automobile Positioning via Collaborative Driving&lt;/a&gt;.
+  &lt;em&gt;IEEE Conference on Computer Communications (IEEE INFOCOM &amp;lsquo;18).&lt;/em&gt; &lt;em&gt;Acceptance rate=19.2% (309/1606)&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/demetriou-codrive-2018/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/security-in-machine-learning-and-cps/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1109/INFOCOM.2018.8486281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Slides
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=jAuJFiYq2bQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Presentation Video
+  &lt;/a&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CoDrive: Improving Automobile Positioning via Collaborative Driving</title>
+      <link>https://soteris.github.io/publication/demetriou-codrive-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-codrive-2018/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Award(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Best in-session presentation award in the &amp;ldquo;Vehicular Networks&amp;rdquo; session of IEEE INFOCOM 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;-patents&#34;&gt;💡 Patent(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Puneet Jain&lt;/span&gt;, &lt;span &gt;
+      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
+      Kyu-Han Kim&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;https://soteris.github.io/publication/jain-determining-2019/&#34;&gt;Determining car positions&lt;/a&gt;.
+  US Patent: US10380889B2.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://patents.google.com/patent/US10380889B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/jain-determining-2019/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/security-in-machine-learning-and-cps/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting our work at NDSS 2018</title>
+      <link>https://soteris.github.io/talk/presenting-our-work-at-ndss-2018/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/talk/presenting-our-work-at-ndss-2018/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9TFAYgUcsk8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;🏆 Our paper received a distinguished paper award at NDSS &amp;lsquo;18.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🏁 Our paper was a finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Güliz Seray Tuncay&lt;/span&gt;, &lt;span &gt;
+      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
+      Karan Ganju&lt;/span&gt;, &lt;span &gt;
+      Carl A. Gunter&lt;/span&gt;
+  &lt;/span&gt;
+  (2018).
+  &lt;a href=&#34;https://soteris.github.io/publication/tuncay-resolving-2018/&#34;&gt;Resolving the Predicament of Android Custom Permissions&lt;/a&gt;.
+  &lt;em&gt;Proceedings 2018 Network and Distributed System Security Symposium (NDSS &amp;lsquo;18)&lt;/em&gt;. &lt;em&gt;Acceptance rate=21.4% (71/331)&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/tuncay-resolving-2018/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/authentication-authorization-and-access-control/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.14722/ndss.2018.23210&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf&#34; &gt;
+    
+    Slides
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=9TFAYgUcsk8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Presentation Video
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/gulizseray/alloy-android-permissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Source Code (Formal Model)
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://sites.google.com/view/cusper-custom-permissions/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Website
+  &lt;/a&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resolving the Predicament of Android Custom Permissions</title>
+      <link>https://soteris.github.io/publication/tuncay-resolving-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/tuncay-resolving-2018/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Distinguished Paper Award at NDSS &amp;lsquo;18&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition (US-CANADA Region)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toward an Extensible Framework for Redaction</title>
+      <link>https://soteris.github.io/publication/demetriou-toward-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-toward-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>https://soteris.github.io/publication/srivastava-camforensics-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/srivastava-camforensics-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps</title>
+      <link>https://soteris.github.io/publication/demetriou-hanguard-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-hanguard-2017/</guid>
+      <description>&lt;h3 id=&#34;video-demonstration&#34;&gt;Video Demonstration&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/AuRP3IUdeuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ghost Installer in the Shadow: Security Analysis of App Installation on Android</title>
+      <link>https://soteris.github.io/publication/lee-ghost-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/lee-ghost-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be</title>
+      <link>https://soteris.github.io/publication/zhang-understanding-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/zhang-understanding-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android</title>
+      <link>https://soteris.github.io/publication/tuncay-draco-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/tuncay-draco-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free for All! Assessing User Data Exposure to Advertising Libraries on Android</title>
+      <link>https://soteris.github.io/publication/demetriou-free-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-free-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in Your Dongle and Bank Account? Mandatory and Discretionary Protection of Android External Resources</title>
+      <link>https://soteris.github.io/publication/demetriou-whats-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-whats-2015/</guid>
+      <description>&lt;h3 id=&#34;-patents&#34;&gt;💡 Patent(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      XiaoFeng Wang&lt;/span&gt;, &lt;span &gt;
+      Kan Yuan&lt;/span&gt;, &lt;span &gt;
+      Xiaoyong Zhou&lt;/span&gt;, &lt;span &gt;
+      Muhammad Naveed&lt;/span&gt;, &lt;span &gt;
+      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
+      Carl Gunter&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://soteris.github.io/publication/wang-external-2020/&#34;&gt;External resource control of mobile devices&lt;/a&gt;.
+  US Patent: US10685142B2.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://patents.google.com/patent/US10685142B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/wang-external-2020/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inside Job: Understanding and Mitigating the Threat of External Device Mis-Bonding on Android</title>
+      <link>https://soteris.github.io/publication/naveed-inside-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/naveed-inside-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity, location, disease and more: inferring your secrets from android public resources</title>
+      <link>https://soteris.github.io/publication/zhou-identity-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/zhou-identity-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering the invisible city: Location-based games for learning in smart cities</title>
+      <link>https://soteris.github.io/publication/sintoris-discovering-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/sintoris-discovering-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content creation by end users for location-sensitive mobile educational games</title>
+      <link>https://soteris.github.io/publication/sintoris-content-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/sintoris-content-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://soteris.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

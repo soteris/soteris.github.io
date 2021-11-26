@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Visualization&#34; | Soteris Demetriou</title>
+    <link>https://soteris.github.io/tag/visualization/</link>
+      <atom:link href="https://soteris.github.io/tag/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Visualization&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Visualization&#34;</title>
+      <link>https://soteris.github.io/tag/visualization/</link>
+    </image>
+    
+    <item>
+      <title>CoDrive: Improving Automobile Positioning via Collaborative Driving</title>
+      <link>https://soteris.github.io/publication/demetriou-codrive-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-codrive-2018/</guid>
+      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Award(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Best in-session presentation award in the &amp;ldquo;Vehicular Networks&amp;rdquo; session of IEEE INFOCOM 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;-patents&#34;&gt;💡 Patent(s)&lt;/h3&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Puneet Jain&lt;/span&gt;, &lt;span &gt;
+      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
+      Kyu-Han Kim&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;https://soteris.github.io/publication/jain-determining-2019/&#34;&gt;Determining car positions&lt;/a&gt;.
+  US Patent: US10380889B2.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://patents.google.com/patent/US10380889B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/jain-determining-2019/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/security-in-machine-learning-and-cps/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

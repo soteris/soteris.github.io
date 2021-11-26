@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected Talks &amp; Presentations | Soteris Demetriou</title>
+    <link>https://soteris.github.io/event/</link>
+      <atom:link href="https://soteris.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selected Talks &amp; Presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Apr 2018 23:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>Selected Talks &amp; Presentations</title>
+      <link>https://soteris.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Video Presentation of CoDrive (IEEE INFOCOM 2018)</title>
+      <link>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</link>
+      <pubDate>Sat, 14 Apr 2018 23:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jAuJFiYq2bQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;🏆  &lt;strong&gt;Best In-Session Presentation Award&lt;/strong&gt; in the &amp;ldquo;Vehicular Networks&amp;rdquo; session at IEEE INFOCOM 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      S. Demetriou&lt;/span&gt;, &lt;span &gt;
+      P. Jain&lt;/span&gt;, &lt;span &gt;
+      K. Kim&lt;/span&gt;
+  &lt;/span&gt;
+  (2018).
+  &lt;a href=&#34;https://soteris.github.io/publication/demetriou-codrive-2018/&#34;&gt;CoDrive: Improving Automobile Positioning via Collaborative Driving&lt;/a&gt;.
+  &lt;em&gt;IEEE Conference on Computer Communications (IEEE INFOCOM &amp;lsquo;18).&lt;/em&gt; &lt;em&gt;Acceptance rate=19.2% (309/1606)&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/demetriou-codrive-2018/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/security-in-machine-learning-and-cps/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1109/INFOCOM.2018.8486281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Slides
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=jAuJFiYq2bQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Presentation Video
+  &lt;/a&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting our work at NDSS 2018</title>
+      <link>https://soteris.github.io/talk/presenting-our-work-at-ndss-2018/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/talk/presenting-our-work-at-ndss-2018/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9TFAYgUcsk8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;🏆 Our paper received a distinguished paper award at NDSS &amp;lsquo;18.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🏁 Our paper was a finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Güliz Seray Tuncay&lt;/span&gt;, &lt;span &gt;
+      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
+      Karan Ganju&lt;/span&gt;, &lt;span &gt;
+      Carl A. Gunter&lt;/span&gt;
+  &lt;/span&gt;
+  (2018).
+  &lt;a href=&#34;https://soteris.github.io/publication/tuncay-resolving-2018/&#34;&gt;Resolving the Predicament of Android Custom Permissions&lt;/a&gt;.
+  &lt;em&gt;Proceedings 2018 Network and Distributed System Security Symposium (NDSS &amp;lsquo;18)&lt;/em&gt;. &lt;em&gt;Acceptance rate=21.4% (71/331)&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/tuncay-resolving-2018/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/authentication-authorization-and-access-control/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.14722/ndss.2018.23210&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf&#34; &gt;
+    
+    Slides
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=9TFAYgUcsk8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Presentation Video
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/gulizseray/alloy-android-permissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Source Code (Formal Model)
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://sites.google.com/view/cusper-custom-permissions/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Website
+  &lt;/a&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

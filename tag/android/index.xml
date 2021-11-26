@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Android&#34; | Soteris Demetriou</title>
+    <link>https://soteris.github.io/tag/android/</link>
+      <atom:link href="https://soteris.github.io/tag/android/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Android&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Android&#34;</title>
+      <link>https://soteris.github.io/tag/android/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing Improper Input Validation Vulnerabilities of Mobile Crowdsourcing Services</title>
+      <link>https://soteris.github.io/publication/sojhal-iiv-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/sojhal-iiv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>https://soteris.github.io/publication/srivastava-camforensics-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/srivastava-camforensics-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps</title>
+      <link>https://soteris.github.io/publication/demetriou-hanguard-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-hanguard-2017/</guid>
+      <description>&lt;h3 id=&#34;video-demonstration&#34;&gt;Video Demonstration&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/AuRP3IUdeuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android</title>
+      <link>https://soteris.github.io/publication/tuncay-draco-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/tuncay-draco-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

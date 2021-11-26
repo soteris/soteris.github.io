@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Visual Privacy&#34; | Soteris Demetriou</title>
+    <link>https://soteris.github.io/tag/visual-privacy/</link>
+      <atom:link href="https://soteris.github.io/tag/visual-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Visual Privacy&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Visual Privacy&#34;</title>
+      <link>https://soteris.github.io/tag/visual-privacy/</link>
+    </image>
+    
+    <item>
+      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
+      <link>https://soteris.github.io/publication/srivastava-camforensics-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/srivastava-camforensics-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

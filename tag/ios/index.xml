@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;iOS&#34; | Soteris Demetriou</title>
+    <link>https://soteris.github.io/tag/ios/</link>
+      <atom:link href="https://soteris.github.io/tag/ios/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;iOS&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;iOS&#34;</title>
+      <link>https://soteris.github.io/tag/ios/</link>
+    </image>
+    
+    <item>
+      <title>HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps</title>
+      <link>https://soteris.github.io/publication/demetriou-hanguard-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-hanguard-2017/</guid>
+      <description>&lt;h3 id=&#34;video-demonstration&#34;&gt;Video Demonstration&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/AuRP3IUdeuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
