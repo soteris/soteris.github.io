@@ -13,15 +13,7 @@
     </image>
     
     <item>
-      <title>$$ServiceRouter$$: Hyperscale and Minimal Cost Service Mesh at Meta</title>
-      <link>https://soteris.github.io/publication/saokar-2023-servicerouter/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/saokar-2023-servicerouter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conveyor:$$One-Tool-Fits-All$$ Continuous Software Deployment at Meta</title>
+      <title>Conveyor: One-Tool-Fits-All Continuous Software Deployment at Meta</title>
       <link>https://soteris.github.io/publication/grubic-2023-conveyor/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://soteris.github.io/publication/grubic-2023-conveyor/</guid>
@@ -33,6 +25,14 @@
       <link>https://soteris.github.io/publication/huang-2023-evaluating/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://soteris.github.io/publication/huang-2023-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta</title>
+      <link>https://soteris.github.io/publication/saokar-2023-servicerouter/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/saokar-2023-servicerouter/</guid>
       <description></description>
     </item>
     

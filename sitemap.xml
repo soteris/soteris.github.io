@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://soteris.github.io/publication/saokar-2023-servicerouter/</loc>
-    <lastmod>2023-09-26T15:42:58+01:00</lastmod>
-  </url><url>
     <loc>https://soteris.github.io/publication-type/1/</loc>
     <lastmod>2023-09-26T15:43:03+01:00</lastmod>
   </url><url>
@@ -19,6 +16,9 @@
   </url><url>
     <loc>https://soteris.github.io/publication/</loc>
     <lastmod>2023-09-26T15:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://soteris.github.io/publication/saokar-2023-servicerouter/</loc>
+    <lastmod>2023-09-26T15:42:58+01:00</lastmod>
   </url><url>
     <loc>https://soteris.github.io/</loc>
     <lastmod>2023-09-26T15:43:03+01:00</lastmod>
