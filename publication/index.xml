@@ -5,7 +5,7 @@
     <link>https://soteris.github.io/publication/</link>
       <atom:link href="https://soteris.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,378 +13,282 @@
     </image>
     
     <item>
+      <title>$$ServiceRouter$$: Hyperscale and Minimal Cost Service Mesh at Meta</title>
+      <link>https://soteris.github.io/publication/saokar-2023-servicerouter/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/saokar-2023-servicerouter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conveyor:$$One-Tool-Fits-All$$ Continuous Software Deployment at Meta</title>
+      <link>https://soteris.github.io/publication/grubic-2023-conveyor/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/grubic-2023-conveyor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating User Behavior in Smartphone Security: A Psychometric Perspective</title>
+      <link>https://soteris.github.io/publication/huang-2023-evaluating/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/huang-2023-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Dementia Detection in Spoken Language</title>
+      <link>https://soteris.github.io/publication/dblp-confinterspeech-woszczyk-hads-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/dblp-confinterspeech-woszczyk-hads-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using 3D Shadows to Detect Object Hiding Attacks on Autonomous Vehicle Perception</title>
+      <link>https://soteris.github.io/publication/hau-2022-using/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/hau-2022-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision: Design Fiction for Cybersecurity: Using Science Fiction to Help Software Developers Anticipate Problems</title>
+      <link>https://soteris.github.io/publication/loureiro-2022-vision/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/loureiro-2022-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterizing Improper Input Validation Vulnerabilities of Mobile Crowdsourcing Services</title>
-      <link>https://soteris.github.io/publication/sojhal-iiv-2021/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/sojhal-iiv-2021/</guid>
+      <link>https://soteris.github.io/publication/khan-2021-characterizing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/khan-2021-characterizing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>(Short) Object Removal Attacks on LiDAR-based 3D Object Detectors</title>
-      <link>https://soteris.github.io/publication/hau-short-2021/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/hau-short-2021/</guid>
-      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ndss-symposium.org/ndss-program/autosec-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Runner-up for best short paper award at the AutoSec &amp;lsquo;21 workshop (co-located with NDSS &amp;lsquo;21)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Layer-wise Characterization of Latent Information Leakage in Federated Learning</title>
-      <link>https://soteris.github.io/publication/fan-dpml-2021/</link>
+      <title>Layer-wise characterization of latent information leakage in federated learning</title>
+      <link>https://soteris.github.io/publication/mo-2021-layer/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/fan-dpml-2021/</guid>
+      <guid>https://soteris.github.io/publication/mo-2021-layer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shadow-Catcher: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing</title>
-      <link>https://soteris.github.io/publication/hau-2021-shadowcatcher/</link>
+      <title>Object Removal Attacks on LiDAR-based 3D Object Detectors</title>
+      <link>https://soteris.github.io/publication/hau-2021-object/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/hau-2021-shadowcatcher/</guid>
-      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_2e74e70845794cdf83788b965c8d2a5c.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finalist at the Cybersecurity Awareness Worldwide (CSAW &amp;lsquo;21) applied research competition (EUROPE Region)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>https://soteris.github.io/publication/hau-2021-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open, Sesame! Introducing Access Control to Voice Services</title>
+      <link>https://soteris.github.io/publication/woszczyk-2021-open/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/woszczyk-2021-open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying and Localizing Usable Information Leakage from Neural Network Gradients</title>
+      <link>https://soteris.github.io/publication/mo-2021-quantifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/mo-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadow-catcher: Looking into shadows to detect ghost objects in autonomous vehicle 3d sensing</title>
+      <link>https://soteris.github.io/publication/hau-2021-shadow/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/hau-2021-shadow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal consistency checks to detect LiDAR spoofing attacks on autonomous vehicle perception</title>
+      <link>https://soteris.github.io/publication/you-2021-temporal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/you-2021-temporal/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Determination of a next state of multiple IoT devices within an environment</title>
-      <link>https://soteris.github.io/publication/demetriou-determination-2020/</link>
+      <link>https://soteris.github.io/publication/demetriou-2020-determination/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/demetriou-determination-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DarkneTZ: towards model privacy at the edge using trusted execution environments</title>
-      <link>https://soteris.github.io/publication/mo-darknetz-2020/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/mo-darknetz-2020/</guid>
+      <guid>https://soteris.github.io/publication/demetriou-2020-determination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External resource control of mobile devices</title>
-      <link>https://soteris.github.io/publication/wang-external-2020/</link>
+      <link>https://soteris.github.io/publication/wang-2020-external/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/wang-external-2020/</guid>
+      <guid>https://soteris.github.io/publication/wang-2020-external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darknetz: towards model privacy at the edge using trusted execution environments</title>
+      <link>https://soteris.github.io/publication/mo-2020-darknetz/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/mo-2020-darknetz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining car positions</title>
-      <link>https://soteris.github.io/publication/jain-determining-2019/</link>
+      <link>https://soteris.github.io/publication/jain-2019-determining/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/jain-determining-2019/</guid>
+      <guid>https://soteris.github.io/publication/jain-2019-determining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BEEER: distributed record and replay for medical devices in hospital operating rooms</title>
-      <link>https://soteris.github.io/publication/hojjati-beeer-2019/</link>
+      <link>https://soteris.github.io/publication/hojjati-2019-beeer/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/hojjati-beeer-2019/</guid>
+      <guid>https://soteris.github.io/publication/hojjati-2019-beeer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CoDrive: Improving Automobile Positioning via Collaborative Driving</title>
-      <link>https://soteris.github.io/publication/demetriou-codrive-2018/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/demetriou-codrive-2018/</guid>
-      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Award(s)&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Best in-session presentation award in the &amp;ldquo;Vehicular Networks&amp;rdquo; session of IEEE INFOCOM 2018.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;-patents&#34;&gt;💡 Patent(s)&lt;/h3&gt;
-&lt;blockquote&gt;
-
-
-
-
-
-
-
-  
-    
-
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      Puneet Jain&lt;/span&gt;, &lt;span &gt;
-      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
-      Kyu-Han Kim&lt;/span&gt;
-  &lt;/span&gt;
-  (2019).
-  &lt;a href=&#34;https://soteris.github.io/publication/jain-determining-2019/&#34;&gt;Determining car positions&lt;/a&gt;.
-  US Patent: US10380889B2.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://patents.google.com/patent/US10380889B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/jain-determining-2019/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-  
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://soteris.github.io/project/security-in-machine-learning-and-cps/&#34;&gt;
-    Project
-  &lt;/a&gt;
-  
-
-
-
-
-
-
-
-
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-  
-
-
-&lt;/blockquote&gt;
-</description>
+      <title>Identifying JavaScript skimmers on high-value websites</title>
+      <link>https://soteris.github.io/publication/bower-2019-identifying/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/bower-2019-identifying/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Resolving the Predicament of Android Custom Permissions</title>
-      <link>https://soteris.github.io/publication/tuncay-resolving-2018/</link>
+      <title>Analyzing &amp; Designing the Security of Shared Resources on Smartphone Operating Systems</title>
+      <link>https://soteris.github.io/publication/soteris-2018-analyzing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/tuncay-resolving-2018/</guid>
-      <description>&lt;h3 id=&#34;-awards&#34;&gt;🏆 Awards&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Distinguished Paper Award at NDSS &amp;lsquo;18&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition (US-CANADA Region)&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>https://soteris.github.io/publication/soteris-2018-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codrive: Improving automobile positioning via collaborative driving</title>
+      <link>https://soteris.github.io/publication/demetriou-2018-codrive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-2018-codrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the predicament of android custom permissions</title>
+      <link>https://soteris.github.io/publication/tuncay-2018-resolving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/tuncay-2018-resolving/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Toward an Extensible Framework for Redaction</title>
-      <link>https://soteris.github.io/publication/demetriou-toward-2018/</link>
+      <link>https://soteris.github.io/publication/demetriou-2018-toward/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/demetriou-toward-2018/</guid>
+      <guid>https://soteris.github.io/publication/demetriou-2018-toward/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CamForensics: Understanding Visual Privacy Leaks in the Wild</title>
-      <link>https://soteris.github.io/publication/srivastava-camforensics-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/srivastava-camforensics-2017/</guid>
+      <title>CamForensics: Understanding visual privacy leaks in the wild</title>
+      <link>https://soteris.github.io/publication/srivastava-2017-camforensics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/srivastava-2017-camforensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghost installer in the shadow: Security analysis of app installation on android</title>
+      <link>https://soteris.github.io/publication/lee-2017-ghost/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/lee-2017-ghost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps</title>
-      <link>https://soteris.github.io/publication/demetriou-hanguard-2017/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/demetriou-hanguard-2017/</guid>
-      <description>&lt;h3 id=&#34;video-demonstration&#34;&gt;Video Demonstration&lt;/h3&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/AuRP3IUdeuc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Ghost Installer in the Shadow: Security Analysis of App Installation on Android</title>
-      <link>https://soteris.github.io/publication/lee-ghost-2017/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/lee-ghost-2017/</guid>
+      <link>https://soteris.github.io/publication/demetriou-2017-hanguard/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-2017-hanguard/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be</title>
-      <link>https://soteris.github.io/publication/zhang-understanding-2017/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/zhang-understanding-2017/</guid>
+      <title>Understanding IoT security through the data crystal ball: Where we are now and where we are going to be</title>
+      <link>https://soteris.github.io/publication/zhang-2017-understanding/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/zhang-2017-understanding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android</title>
-      <link>https://soteris.github.io/publication/tuncay-draco-2016/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/tuncay-draco-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Free for All! Assessing User Data Exposure to Advertising Libraries on Android</title>
-      <link>https://soteris.github.io/publication/demetriou-free-2016/</link>
+      <title>Draco: A system for uniform and fine-grained access control for web code on android</title>
+      <link>https://soteris.github.io/publication/tuncay-2016-draco/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/demetriou-free-2016/</guid>
+      <guid>https://soteris.github.io/publication/tuncay-2016-draco/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What&#39;s in Your Dongle and Bank Account? Mandatory and Discretionary Protection of Android External Resources</title>
-      <link>https://soteris.github.io/publication/demetriou-whats-2015/</link>
+      <title>Free for all! assessing user data exposure to advertising libraries on android.</title>
+      <link>https://soteris.github.io/publication/demetriou-2016-free/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-2016-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s in Your Dongle and Bank Account? Mandatory and Discretionary Protection of Android External Resources.</title>
+      <link>https://soteris.github.io/publication/demetriou-2015-s/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/demetriou-whats-2015/</guid>
-      <description>&lt;h3 id=&#34;-patents&#34;&gt;💡 Patent(s)&lt;/h3&gt;
-&lt;blockquote&gt;
-
-
-
-
-
-
-
-  
-    
-
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      XiaoFeng Wang&lt;/span&gt;, &lt;span &gt;
-      Kan Yuan&lt;/span&gt;, &lt;span &gt;
-      Xiaoyong Zhou&lt;/span&gt;, &lt;span &gt;
-      Muhammad Naveed&lt;/span&gt;, &lt;span &gt;
-      Soteris Demetriou&lt;/span&gt;, &lt;span &gt;
-      Carl Gunter&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://soteris.github.io/publication/wang-external-2020/&#34;&gt;External resource control of mobile devices&lt;/a&gt;.
-  US Patent: US10685142B2.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://patents.google.com/patent/US10685142B2/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/wang-external-2020/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-  
-
-
-&lt;/blockquote&gt;
-</description>
+      <guid>https://soteris.github.io/publication/demetriou-2015-s/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Inside Job: Understanding and Mitigating the Threat of External Device Mis-Bonding on Android</title>
-      <link>https://soteris.github.io/publication/naveed-inside-2014/</link>
+      <title>Android at risk: current threats stemming from unprotected local and external resources</title>
+      <link>https://soteris.github.io/publication/demetriou-2014-android/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/naveed-inside-2014/</guid>
+      <guid>https://soteris.github.io/publication/demetriou-2014-android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Identity, location, disease and more: inferring your secrets from android public resources</title>
-      <link>https://soteris.github.io/publication/zhou-identity-2013/</link>
-      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/zhou-identity-2013/</guid>
+      <title>Inside Job: Understanding and Mitigating the Threat of External Device Mis-Binding on Android.</title>
+      <link>https://soteris.github.io/publication/naveed-2014-inside/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/naveed-2014-inside/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Discovering the invisible city: Location-based games for learning in smart cities</title>
-      <link>https://soteris.github.io/publication/sintoris-discovering-2013/</link>
+      <title>Discovering the invisible city: Location-based games for learning in smart cities.</title>
+      <link>https://soteris.github.io/publication/sintoris-2013-discoveringj/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/sintoris-discovering-2013/</guid>
+      <guid>https://soteris.github.io/publication/sintoris-2013-discoveringj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity, location, disease and more: Inferring your secrets from android public resources</title>
+      <link>https://soteris.github.io/publication/zhou-2013-identity/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/zhou-2013-identity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content creation by end users for location-sensitive mobile educational games</title>
-      <link>https://soteris.github.io/publication/sintoris-content-2011/</link>
+      <link>https://soteris.github.io/publication/sintoris-2011-content/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/sintoris-content-2011/</guid>
+      <guid>https://soteris.github.io/publication/sintoris-2011-content/</guid>
       <description></description>
     </item>
     

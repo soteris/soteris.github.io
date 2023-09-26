@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Soteris Demetriou</title>
+    <link>https://soteris.github.io/publication-type/7/</link>
+      <atom:link href="https://soteris.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://soteris.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing &amp; Designing the Security of Shared Resources on Smartphone Operating Systems</title>
+      <link>https://soteris.github.io/publication/soteris-2018-analyzing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/soteris-2018-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android at risk: current threats stemming from unprotected local and external resources</title>
+      <link>https://soteris.github.io/publication/demetriou-2014-android/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-2014-android/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

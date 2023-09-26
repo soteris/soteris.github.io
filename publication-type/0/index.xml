@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Soteris Demetriou</title>
+    <link>https://soteris.github.io/publication-type/0/</link>
+      <atom:link href="https://soteris.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://soteris.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Determination of a next state of multiple IoT devices within an environment</title>
+      <link>https://soteris.github.io/publication/demetriou-2020-determination/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/demetriou-2020-determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External resource control of mobile devices</title>
+      <link>https://soteris.github.io/publication/wang-2020-external/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/wang-2020-external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining car positions</title>
+      <link>https://soteris.github.io/publication/jain-2019-determining/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/jain-2019-determining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

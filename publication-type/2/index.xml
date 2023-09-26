@@ -5,7 +5,7 @@
     <link>https://soteris.github.io/publication-type/2/</link>
       <atom:link href="https://soteris.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be</title>
-      <link>https://soteris.github.io/publication/zhang-understanding-2017/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/zhang-understanding-2017/</guid>
+      <title>Quantifying and Localizing Usable Information Leakage from Neural Network Gradients</title>
+      <link>https://soteris.github.io/publication/mo-2021-quantifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/mo-2021-quantifying/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Discovering the invisible city: Location-based games for learning in smart cities</title>
-      <link>https://soteris.github.io/publication/sintoris-discovering-2013/</link>
+      <title>Identifying JavaScript skimmers on high-value websites</title>
+      <link>https://soteris.github.io/publication/bower-2019-identifying/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/bower-2019-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding IoT security through the data crystal ball: Where we are now and where we are going to be</title>
+      <link>https://soteris.github.io/publication/zhang-2017-understanding/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/zhang-2017-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering the invisible city: Location-based games for learning in smart cities.</title>
+      <link>https://soteris.github.io/publication/sintoris-2013-discoveringj/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://soteris.github.io/publication/sintoris-discovering-2013/</guid>
+      <guid>https://soteris.github.io/publication/sintoris-2013-discoveringj/</guid>
       <description></description>
     </item>
     
