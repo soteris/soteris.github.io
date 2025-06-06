@@ -5,7 +5,7 @@
     <link>https://soteris.github.io/</link>
       <atom:link href="https://soteris.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Soteris Demetriou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_2.png</url>
       <title>Soteris Demetriou</title>
@@ -13,10 +13,77 @@
     </image>
     
     <item>
+      <title>ClaritySpeech: Dementia Obfuscation in Speech</title>
+      <link>https://soteris.github.io/publication/woszczyk-2025-clarity/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/woszczyk-2025-clarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech</title>
+      <link>https://soteris.github.io/publication/woszczyk-2025-didots/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/woszczyk-2025-didots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaky Diffusion: Attribute Leakage in Text-Guided Image Generation</title>
+      <link>https://soteris.github.io/publication/lepipas-2025-leaky/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/lepipas-2025-leaky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Dementia Speech Alignment with Diffusion-Based Image Generation</title>
+      <link>https://soteris.github.io/publication/mansi-2025-understanding/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/mansi-2025-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial 3D Virtual Patches using Integrated Gradients</title>
+      <link>https://soteris.github.io/publication/you-2024-adversarial/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/you-2024-adversarial/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🏆 Our paper received a distinguished paper award at the IEEE Security and Privacy Workshop on the Internet of Safe Things (SafeThings &amp;lsquo;24).&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MobileConfig: Remote Configuration Management for Mobile Apps at Hyperscale</title>
       <link>https://soteris.github.io/publication/guo-2024-mobileconfig/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://soteris.github.io/publication/guo-2024-mobileconfig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosody-Driven Privacy-Preserving Dementia Detection</title>
+      <link>https://soteris.github.io/publication/woszczyk-2024-prosody/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/woszczyk-2024-prosody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rain-Reaper: Unmasking LiDAR-based Detector Vulnerabilities in Rain</title>
+      <link>https://soteris.github.io/publication/capraru-2024-rain/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/capraru-2024-rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Username Squatting on Online Social Networks: A Study on X</title>
+      <link>https://soteris.github.io/publication/lepipas-2024-username/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://soteris.github.io/publication/lepipas-2024-username/</guid>
       <description></description>
     </item>
     
