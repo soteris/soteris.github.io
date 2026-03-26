@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>grant | Soteris Demetriou</title><link>https://soteris.github.io/tag/grant/</link><atom:link href="https://soteris.github.io/tag/grant/index.xml" rel="self" type="application/rss+xml"/><description>grant</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_3.png</url><title>grant</title><link>https://soteris.github.io/tag/grant/</link></image><item><title>NeSyDebates: Neuro-Symbolic Debates for Safeguarded Generative AI</title><link>https://soteris.github.io/project/nesydebates/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://soteris.github.io/project/nesydebates/</guid><description>&lt;p>&lt;strong>Funder:&lt;/strong> EPSRC (UK) &amp;amp; Japan Science and Technology Agency (JST) — ASPIRE Japan–UK Joint Programme on Advancing Human-Centered AI
+&lt;strong>Period:&lt;/strong> January 2026 – March 2031 (63 months)
+&lt;strong>UK PI:&lt;/strong> Prof. Francesca Toni, Department of Computing, Imperial College London
+&lt;strong>Japan PI:&lt;/strong> Prof. Ken Satoh, Center for Juris-Informatics, Joint Support-Center for Data Science Research, Research Organization of Information and Systems&lt;/p>
+&lt;hr>
+&lt;h3 id="overview">Overview&lt;/h3>
+&lt;p>With the rapid advancement of generative AI models, challenges remain regarding their safety, security, and alignment with human values. Large language models (LLMs) face risks such as hallucinations that produce false information and prompt misuse that may lead to the unlawful acquisition of personal data.&lt;/p>
+&lt;p>NeSyDebates develops a &lt;strong>Neuro-Symbolic Debate System&lt;/strong> that:&lt;/p>
+&lt;ol>
+&lt;li>Automatically extracts machine-readable normative argument structures from natural-language descriptions of norm violations — covering policies, regulations, and laws.&lt;/li>
+&lt;li>Applies these extracted normative arguments to new cases to &lt;strong>detect, explain, and prevent&lt;/strong> potential violations.&lt;/li>
+&lt;/ol>
+&lt;p>The system is validated in two application domains: legal document processing with LLMs, and text-to-image generation AI used in online image creation.&lt;/p>
+&lt;h3 id="our-contributions">Our Contributions&lt;/h3>
+&lt;p>Within NeSyDebates, our group at the &lt;a href="https://apss.doc.ic.ac.uk/" target="_blank" rel="noopener">APSS Lab&lt;/a> focuses on:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Characterizing and explaining model behavior&lt;/strong> — understanding when and why generative models produce policy-violating outputs.&lt;/li>
+&lt;li>&lt;strong>Robust, interpretable neuro-symbolic methods&lt;/strong> — designing enforceable safeguards grounded in policies, regulations, and laws.&lt;/li>
+&lt;li>&lt;strong>Machine unlearning&lt;/strong> — developing approaches to correct harmful outputs by selectively removing offending knowledge from trained models.&lt;/li>
+&lt;li>&lt;strong>Evaluation against real-world constraints&lt;/strong> — benchmarking methods against real policies and legal frameworks.&lt;/li>
+&lt;/ul>
+&lt;h3 id="context">Context&lt;/h3>
+&lt;p>NeSyDebates was selected as one of &lt;strong>four funded projects out of 85 proposals&lt;/strong> submitted to the joint JST–EPSRC ASPIRE call. The project brings together expertise in computational logic, argumentation, multi-agent systems, AI safety, and law.&lt;/p></description></item></channel></rss>
