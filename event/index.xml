@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Selected Talks &amp; Presentations | Soteris Demetriou</title><link>https://soteris.github.io/event/</link><atom:link href="https://soteris.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Selected Talks &amp; Presentations</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Apr 2018 23:00:00 +0000</lastBuildDate><image><url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_3.png</url><title>Selected Talks &amp; Presentations</title><link>https://soteris.github.io/event/</link></image><item><title>Video Presentation of CoDrive (IEEE INFOCOM 2018)</title><link>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</link><pubDate>Sat, 14 Apr 2018 23:00:00 +0000</pubDate><guid>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Selected Talks &amp; Presentations | Soteris Demetriou</title><link>https://soteris.github.io/event/</link><atom:link href="https://soteris.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Selected Talks &amp; Presentations</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://soteris.github.io/media/icon_hu50306632f48bd4e331c7d892a899ade8_20922_512x512_fill_lanczos_center_3.png</url><title>Selected Talks &amp; Presentations</title><link>https://soteris.github.io/event/</link></image><item><title>Co-Presenting XFaaS at SOSP 2023</title><link>https://soteris.github.io/talk/co-presenting-xfaas-at-sosp-2023/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>https://soteris.github.io/talk/co-presenting-xfaas-at-sosp-2023/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/VXY4nXdufYI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Co-presented with &lt;a href="https://alirezasahraei.com/" target="_blank" rel="noopener">Alireza Sahraei&lt;/a> at the 29th ACM Symposium on Operating Systems Principles (SOSP 2023).&lt;/p>
+&lt;blockquote>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+Alireza Sahraei&lt;/span>, &lt;span >
+Soteris Demetriou&lt;/span>, &lt;span >
+Amirali Sobhgol&lt;/span>, &lt;span >
+Haoran Zhang&lt;/span>, &lt;span >
+Abhigna Nagaraja&lt;/span>, &lt;span >
+Neeraj Pathak&lt;/span>, &lt;span >
+Girish Joshi&lt;/span>, &lt;span >
+Carla Souza&lt;/span>, &lt;span >
+Bo Huang&lt;/span>, &lt;span >
+Wyatt Cook&lt;/span>, &lt;span >
+Andrii Golovei&lt;/span>, &lt;span >
+Pradeep Venkat&lt;/span>, &lt;span >
+Andrew Mcfague&lt;/span>, &lt;span >
+Dimitrios Skarlatos&lt;/span>, &lt;span >
+Vipul Patel&lt;/span>, &lt;span >
+Ravinder Thind&lt;/span>, &lt;span >
+Ernesto Gonzalez&lt;/span>, &lt;span >
+Yun Jin&lt;/span>, &lt;span >
+Chunqiang Tang&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="https://soteris.github.io/publication/sahraei-2023-xfaas/">XFaaS: Hyperscale and Low Cost Serverless Functions at Meta&lt;/a>.
+&lt;em>Proceedings of the 29th Symposium on Operating Systems Principles (SOSP 23)&lt;/em>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://soteris.github.io/publications/SahraeiSOSP23.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/sahraei-2023-xfaas/cite.bib">
+Cite
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/blockquote></description></item><item><title>Video Presentation of CoDrive (IEEE INFOCOM 2018)</title><link>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</link><pubDate>Sat, 14 Apr 2018 23:00:00 +0000</pubDate><guid>https://soteris.github.io/talk/video-presentation-of-codrive-ieee-infocom-2018/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/jAuJFiYq2bQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
