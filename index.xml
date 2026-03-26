@@ -58,8 +58,7 @@ Chunqiang Tang&lt;/span>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://soteris.github.io/publications/SahraeiSOSP23.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
-&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-data-filename="/publication/sahraei-2023-xfaas/cite.bib">
+&lt;a href="https://soteris.github.io/publication/sahraei-2023-xfaas/cite.bib" class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" rel="noopener">
 Cite
 &lt;/a>
 &lt;/p>
